@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello ram
+resolved
+hello ram welcpme on remote
+>>>>>>> 727a6d39eb13a2760961ae4923af97e8632c7b5a
